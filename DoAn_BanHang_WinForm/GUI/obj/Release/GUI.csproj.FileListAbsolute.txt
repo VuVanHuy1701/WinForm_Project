@@ -1,0 +1,7 @@
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Release\GUI.Form_Login.resources
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Release\GUI.Form_Main.resources
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Release\GUI.Form_QLy.resources
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Release\GUI.Properties.Resources.resources
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Release\GUI.csproj.GenerateResource.cache
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Release\GUI.csproj.CoreCompileInputs.cache
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\GUI\obj\Release\GUI.csproj.AssemblyReference.cache

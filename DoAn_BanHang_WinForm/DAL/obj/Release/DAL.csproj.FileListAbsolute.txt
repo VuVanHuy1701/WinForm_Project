@@ -1,0 +1,4 @@
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\DAL\obj\Release\DAL.Properties.Resources.resources
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\DAL\obj\Release\DAL.csproj.GenerateResource.cache
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache

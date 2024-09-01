@@ -1,0 +1,9 @@
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\DTO\bin\Release\DTO.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\DTO\bin\Release\DTO.pdb
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\DTO\bin\Release\System.Data.SqlClient.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\DTO\bin\Release\System.Data.SqlClient.xml
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\DTO\obj\Release\DTO.csproj.AssemblyReference.cache
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\DTO\obj\Release\DTO.csproj.CopyComplete
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\DTO\obj\Release\DTO.dll
+E:\NAM 2\HK 3\WinForm\Do_An\DoAn_BanHang_WinForm\DTO\obj\Release\DTO.pdb
